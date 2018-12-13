@@ -1,1 +1,1 @@
-quiz-android
+android-quiz

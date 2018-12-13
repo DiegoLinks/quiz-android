@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="texto_como_jogar">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged.\n\n
+     It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.</string>
+    <string name="como_jogar">Como Jogar</string>
+
+    <!--Configuração de perguntas via arquivo Strings -->
+    <string name="titulo1">Pergunta 1</string>
+    <string name="pergunta1">Primeira... is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s?</string>
+    <string name="resposta1_rodada1">01. Primeira rodada de perguntas... pergunta número 1.</string>
+    <string name="resposta2_rodada1">02. Primeira rodada de perguntas... pergunta número 2.</string>
+    <string name="resposta3_rodada1">03. Primeira rodada de perguntas... pergunta número 3.</string>
+    <string name="resposta4_rodada1">04. Primeira rodada de perguntas... pergunta número 4.</string>
+
+    <!--Configuração de perguntas via arquivo Strings -->
+</resources>
