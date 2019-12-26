@@ -1,11 +1,8 @@
 name: Build na Develop e na Master
 
 on: 
-  pull_request:
-    branches: 
-      - master
-      - develop
-
+  push:
+    
 jobs:
   build:
     
